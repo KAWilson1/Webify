@@ -1,0 +1,36 @@
+Software Development Life Cycle (SDLC)
+Kyle Wilson
+Last Updated: 5/30/18
+
+Planning Phase
+	Considered the most important part of the SDLC.
+	Called the "Why" phase.
+		The answer to "why are we considering development of this system?" should be outlined.
+	Deliverables
+		System Request
+		Feasibility Analysis
+		Project Plan
+Analysis Phase
+	Called the "what" phase.
+	Deliverables
+		Requirements Definition
+			Outlines what exactly needs to be done
+		System Proposal
+			What business requirements are we trying to meet?
+		Use cases
+		Process Modeling 
+		Data Modeling
+		System Proposal
+Design Phase
+	Called the "how" phase.
+	Deliverables
+		Design strategies
+		System Specifications
+Implementation Phase
+	This is the phase where programming begins
+	Deliverables
+		Test Plan
+		Migration Plan
+			Conversion Plan
+			Business Contingency Plan
+			Training
